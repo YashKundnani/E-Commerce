@@ -1,2 +1,2 @@
-# E-Commerce-API
+# E-Commerce
 E Commerce Infrastructure on AWS
